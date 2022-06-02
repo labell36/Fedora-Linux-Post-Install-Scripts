@@ -1,4 +1,5 @@
-*Make sure to run these commands with sudo as well as in the current directory -- I was not able to figure out how to get it working outside of this directory. I'll fix this if I find a solution.*
+**Make sure to run these commands with sudo as well as in the current directory** -- I was not able to figure out how to get it working outside of this directory. I'll fix this if I find a solution.
+**Remember to chmod +x the files in order to execut them.**
 
 Run full.sh for a full installation with everything included. Otherwise, run desired scripts for whatever you need.
 
